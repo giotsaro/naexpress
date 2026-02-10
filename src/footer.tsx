@@ -1,7 +1,4 @@
 import logo from "./assets/logo.png";
-
-import { CiInstagram } from "react-icons/ci";
-import { CiFacebook } from "react-icons/ci"
 import { LuPhone  } from "react-icons/lu";
 import { LuMail } from "react-icons/lu";
 import { LuMapPin } from "react-icons/lu";
@@ -88,15 +85,7 @@ function Footer() {
 
           </ul>
 
-          {/* Social */}
-          <div className="flex gap-4 mt-4">
-            <a href="#" className="hover:text-blue-500">
-              <CiFacebook size={20} />
-            </a>
-            <a href="#" className="hover:text-blue-500">
-              <CiInstagram size={20} />
-            </a>
-          </div>
+       
         </div>
 
       </div>

@@ -34,29 +34,29 @@ function About() {
 
 
       {/* Text */}
-      <div>
-        <h2 className="text-3xl font-bold text-gray-900 mb-6">
-          About N&A Express LLC
-        </h2>
+    <div>
+  <h2 className="text-3xl font-bold text-gray-900 mb-6">
+    About N&A Express LLC
+  </h2>
 
-        <p className="text-gray-700 leading-relaxed mb-4">
-          N&A Express LLC is a nationwide logistics company operating
-          across the United States. We provide freight transportation
-          services using cargo vans, sprinters, and box trucks.
-        </p>
+  <p className="text-gray-700 leading-relaxed mb-4">
+    N&A Express LLC is a nationwide carrier operating across the United States, providing reliable freight transportation with cargo vans, sprinters, and box trucks. We work with licensed brokers and direct customers to move time-sensitive and general freight efficiently, safely, and in full compliance with applicable federal and state transportation regulations.
+  </p>
 
-        <p className="text-gray-700 leading-relaxed mb-4">
-          We use phone calls and SMS messaging to communicate with
-          customers, brokers, drivers, and business partners for
-          dispatching, load coordination, shipment updates, delivery
-          confirmations, scheduling, and customer support.
-        </p>
+  <p className="text-gray-700 leading-relaxed mb-4">
+    Our operations are supported by structured dispatch procedures, accurate documentation, and clear communication at every stage of the shipment. We offer 24/7 dispatch and shipment tracking, ensuring real-time updates, prompt responses, and timely delivery confirmations. Our team focuses on on-time performance, flexible capacity to match available loads, and strict adherence to compliance, safety, and service standards.
+  </p>
 
-        <p className="text-gray-700 leading-relaxed">
-          We value long-term partnerships and always strive to provide
-          reliable service, clear communication, and competitive rates.
-        </p>
-      </div>
+  <p className="text-gray-700 leading-relaxed mb-4">
+    We value long-term partnerships and strive to build trust through dependable service, transparency, and competitive rates. To support our partners, we offer weekly payment and quick pay options, providing reliable and timely settlements.
+  </p>
+
+  <p className="text-gray-700 leading-relaxed">
+    Our goal is to be a compliant, responsive, and dependable carrier that brokers, shippers, and business partners can confidently work with on an ongoing basis.
+  </p>
+</div>
+
+
     </div>
 
     {/* Stats */}

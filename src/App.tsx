@@ -18,7 +18,11 @@ function App() {
         {/* Location */}
         <div className="flex items-center gap-2 py-2 md:py-0">
           <MdOutlinePlace className="h-5 w-5 text-white" />
-          <span><a href=""></a>Location: 2363 JAMES ST # 595 SYRACUSE, NY 13206</span>
+          <span><a
+    href="https://www.google.com/maps/search/?api=1&query=2363+JAMES+ST+%23+595+SYRACUSE,+NY+13206"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-sm text-center hover:text-white transition">2363 JAMES ST # 595 SYRACUSE, NY 13206</a></span>
         </div>
 
         {/* Contact Info */}
